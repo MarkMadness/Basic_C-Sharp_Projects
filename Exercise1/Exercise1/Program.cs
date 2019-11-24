@@ -7,7 +7,7 @@ namespace Exercise1
         static void Main()
         {
             Console.WriteLine("Welcome to Acme Accounting Systems");
-            Console.WriteLine("Remember, we're 'acounting' on you!");
+            Console.WriteLine("Remember, we're 'accounting' on you!");
             Console.ReadLine();
         }
     }
