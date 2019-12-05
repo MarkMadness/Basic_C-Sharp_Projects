@@ -1,0 +1,6 @@
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\bin\Debug\Exercise12.exe.config
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\bin\Debug\Exercise12.exe
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\bin\Debug\Exercise12.pdb
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\obj\Debug\Exercise12.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\obj\Debug\Exercise12.exe
+C:\Users\TTA_DEN_01\source\repos\Exercise12\Exercise12\obj\Debug\Exercise12.pdb
