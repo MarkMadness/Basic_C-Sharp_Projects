@@ -15,6 +15,8 @@ namespace Exercise18
             em.lastName = "Student";
             em.SayName();
             Console.ReadLine();
+            em.Quit();
+            Console.ReadLine();
         }
     }
 }
