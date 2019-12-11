@@ -1,0 +1,6 @@
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\obj\Debug\Exercise18.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\bin\Debug\Exercise18.exe.config
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\bin\Debug\Exercise18.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\bin\Debug\Exercise18.pdb
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\obj\Debug\Exercise18.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise18\Exercise18\obj\Debug\Exercise18.pdb
