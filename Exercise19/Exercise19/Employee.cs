@@ -6,34 +6,35 @@ using System.Threading.Tasks;
 
 namespace Exercise19
 {
-    public class Employee: Person
+    public class Employee<T> : Person
     {
+        public List<T> things { get; set;}
         public string iD { get; set; }
-        public static string operator ==(Employee a, Employee b)
-        {
-            if (a.iD == b.iD)
-            {
-                string status = "The IDs are equal to each other.";
-                return status;
-            }
-            else
-            {
-                string status = "The IDs are not equal to each other.";
-                return status;
-            }
-        }
-        public static string operator !=(Employee a, Employee b)
-        {
-            if (a.iD != b.iD)
-            {
-                string status = "The IDs are not equal to each other.";
-                return status;
-            }
-            else
-            {
-                string status = "The IDs are equal to each other.";
-                return status;
-            }
-        }
+        //public static string operator ==(Employee a, Employee b)
+        //{
+        //    if (a.iD == b.iD)
+        //    {
+        //        string status = "The IDs are equal to each other.";
+        //        return status;
+        //    }
+        //    else
+        //    {
+        //        string status = "The IDs are not equal to each other.";
+        //        return status;
+        //    }
+        //}
+        //public static string operator !=(Employee a, Employee b)
+        //{
+        //    if (a.iD != b.iD)
+        //    {
+        //        string status = "The IDs are not equal to each other.";
+        //        return status;
+        //    }
+        //    else
+        //    {
+        //        string status = "The IDs are equal to each other.";
+        //        return status;
+        //    }
+        //}
     }
 }
