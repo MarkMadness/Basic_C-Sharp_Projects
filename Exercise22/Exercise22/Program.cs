@@ -27,13 +27,35 @@ namespace Exercise22
 
             foreach (Employee employ in emList)
             {
-                if (em.firstName == "Joe")
+                if (employ.firstName == "Joe")
                 {
                     joeList.Add(employ);
                 }
             }
 
+            List<string> joeListTwo = emList.Where(x => x.firstName == "Joe").ToList();
+            //List<string> joeListTwo = em.firstName.FindAll("Joe").ToList();
 
+            //List<int> emListId5 = emListId.Where(x => x > 5).ToList();
+
+            ////======Second attempt=======================
+            //Employee em = new Employee();
+            //List<string> emListFirst = new List<string>() { "Joe", "Sara", "Kevin", "Sammy", "Blake", "Michael", "Jennifer", "Harry", "Joe", "Larry" };
+            //List<string> emListSecond = new List<string>() { "Sullivan", "Jackson", "Smith", "Jeffner", "Tarley", "Lawson", "Houston", "Potter", "White", "Kingsman"};
+            //List<int> emListId = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            //List<string> joeList = new List<string>();
+
+            //foreach (string employ in emListFirst)
+            //{
+            //    if (employ == "Joe")
+            //    {
+            //        joeList.Add(employ);
+            //    }
+            //}
+
+            //List<string> joeListTwo = emListFirst.Where(x => x == "Joe").ToList();
+
+            //List<int> emListId5 = emListId.Where(x => x > 5).ToList();
 
             Console.ReadLine();
         }
