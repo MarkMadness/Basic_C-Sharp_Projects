@@ -1,0 +1,6 @@
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\bin\Debug\Exercise22.exe.config
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\bin\Debug\Exercise22.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\bin\Debug\Exercise22.pdb
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\obj\Debug\Exercise22.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\obj\Debug\Exercise22.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise22\Exercise22\obj\Debug\Exercise22.pdb
