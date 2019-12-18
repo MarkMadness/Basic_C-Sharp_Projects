@@ -12,7 +12,7 @@ namespace Exercise22
         {
             //======first attempt==========================
             Employee em = new Employee();
-            List<Employee> emList = new List<Employee>(10);
+            List<Employee> emList = new List<Employee>();
             List<Employee> joeList = new List<Employee>();
             emList.Add(new Employee { firstName = "Joe", lastName = "Sullivan", iD = 1 });
             emList.Add(new Employee { firstName = "Sara", lastName = "Jackson", iD = 2 });
@@ -33,29 +33,9 @@ namespace Exercise22
                 }
             }
 
-            List<string> joeListTwo = emList.Where(x => x.firstName == "Joe").ToList();
-            //List<string> joeListTwo = em.firstName.FindAll("Joe").ToList();
+            List<Employee> joeListTwo = emList.Where(x => x.firstName == "Joe").ToList();
 
-            //List<int> emListId5 = emListId.Where(x => x > 5).ToList();
-
-            ////======Second attempt=======================
-            //Employee em = new Employee();
-            //List<string> emListFirst = new List<string>() { "Joe", "Sara", "Kevin", "Sammy", "Blake", "Michael", "Jennifer", "Harry", "Joe", "Larry" };
-            //List<string> emListSecond = new List<string>() { "Sullivan", "Jackson", "Smith", "Jeffner", "Tarley", "Lawson", "Houston", "Potter", "White", "Kingsman"};
-            //List<int> emListId = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            //List<string> joeList = new List<string>();
-
-            //foreach (string employ in emListFirst)
-            //{
-            //    if (employ == "Joe")
-            //    {
-            //        joeList.Add(employ);
-            //    }
-            //}
-
-            //List<string> joeListTwo = emListFirst.Where(x => x == "Joe").ToList();
-
-            //List<int> emListId5 = emListId.Where(x => x > 5).ToList();
+            List<Employee> emListId5 = emList.Where(x => x.iD > 5).ToList();
 
             Console.ReadLine();
         }
