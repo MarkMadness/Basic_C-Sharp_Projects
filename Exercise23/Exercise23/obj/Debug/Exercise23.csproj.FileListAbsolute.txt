@@ -1,0 +1,6 @@
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\bin\Debug\Exercise23.exe.config
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\bin\Debug\Exercise23.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\bin\Debug\Exercise23.pdb
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\obj\Debug\Exercise23.csprojAssemblyReference.cache
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\obj\Debug\Exercise23.exe
+C:\Users\TTA_DEN_01\Desktop\C#_Course\Projects\EXERCISES\Exercise23\Exercise23\obj\Debug\Exercise23.pdb
